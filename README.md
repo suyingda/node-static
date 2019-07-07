@@ -1,0 +1,2 @@
+# node-static
+node server
